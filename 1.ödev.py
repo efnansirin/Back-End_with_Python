@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 
 #Kullanıcıdan dik kenarları istenen üçgenin alan hesabı
 a=int(input("Bir sayı girer misiniz? "))
@@ -8,7 +8,7 @@ print("Üçgenin Alanı: ",a*b/2)
 #Kullanıcı'dan iki tane girdi alın ve bunların değerlerini değiştirin
 m=int(input("M'nin değerini girer misin ? "))
 n=int(input("N'nin değerini girer misin ? "))
-print("M: ",n,"N: ",m)
+print("M: ",n,"N: ",m) 
 
 #Harf Notu Hesabı
 vn=int(input("Öğrencinin vize notunu giriniz: "))
